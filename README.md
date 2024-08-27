@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crypticcipher
+- 👋 Hi, I’m jasmine. @crypticcipher 
 - 👀 I’m interested in programming, art, ethical hacking with Kali Linux, game development and just building stuff ig
 - 🌱 I’m currently learning Python, C#, C++
 - 💞️ I’m looking to collaborate on building pc/mobile games
